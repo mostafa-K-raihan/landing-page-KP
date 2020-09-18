@@ -91,6 +91,7 @@ p {
   margin-bottom: 3rem;
   padding-bottom: 3rem;
   text-align: center;
+  min-height: 80vh;
 }
 
 @supports(background-blend-mode: multiply) {
